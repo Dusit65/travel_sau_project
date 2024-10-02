@@ -1,6 +1,6 @@
 # travel_sau_project
 
-Created By : Dusit Pakdeekunakorn DTU-SAU
+Created By : Dusit Pakdeekunakorn DTI-SAU
 
 ## Splash Screen
 <image src="https://github.com/Dusit65/travel_sau_project/blob/main/spsrc.jpg" width="150px">
